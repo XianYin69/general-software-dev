@@ -1,0 +1,25 @@
+{
+ "id": "pt-general-software-dev-gen-git-remote-management",
+ "title": "生成子技能 git-remote-management（占位转实体）",
+ "skill": "general-software-dev",
+ "input": "用 Skill_Generator 创建路径生成子技能 git-remote-management：分支模型/建仓与可见性判定/PR 流程派发 create-pull-request/附属双仓模型，写入 skills/git-remote-management，并把 general-software-dev 的 branch/git远端管理/ 占位改为实体链接，deps.json 增 local://git-remote-management。",
+ "schedule": {
+  "mode": "at",
+  "at": "2026-10-08T12:00",
+  "cron": "0 12 * * *",
+  "every_min": 60
+ },
+ "session": {
+  "kind": "cron",
+  "key": "general-software-dev:pt-general-software-dev-gen-git-remote-management"
+ },
+ "status": "paused",
+ "created": "2026-10-07T14:26",
+ "next_run": "2026-10-08T12:00",
+ "last_run": null,
+ "runs": 0,
+ "notify": "shell",
+ "depends": [
+  "pt-general-software-dev-gen-packaging-and-release"
+ ]
+}

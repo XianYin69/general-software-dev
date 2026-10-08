@@ -1,0 +1,128 @@
+{
+  "skill": "general-software-dev",
+  "dependencies": [
+    {
+      "name": "general-programming",
+      "type": "skill",
+      "source_url": "local://general-programming",
+      "license": "MIT",
+      "version": "0.1.0",
+      "install": "sms:install general-programming",
+      "checked_at": "2026-10-07T14:26",
+      "source_url_status": "verified"
+    },
+    {
+      "name": "code-guidelines",
+      "type": "skill",
+      "source_url": "local://code-guidelines",
+      "license": "unknown",
+      "version": "0.1.0",
+      "install": "sms:install code-guidelines",
+      "checked_at": "2026-10-07T14:26",
+      "source_url_status": "verified"
+    },
+    {
+      "name": "python-expert",
+      "type": "skill",
+      "source_url": "local://python-expert",
+      "license": "MIT",
+      "version": "0.1.1",
+      "install": "sms:install python-expert",
+      "checked_at": "2026-10-07T14:26",
+      "source_url_status": "verified"
+    },
+    {
+      "name": "cpp-expert",
+      "type": "skill",
+      "source_url": "local://cpp-expert",
+      "license": "MIT",
+      "version": "0.1.0",
+      "install": "sms:install cpp-expert",
+      "checked_at": "2026-10-07T14:26",
+      "source_url_status": "verified"
+    },
+    {
+      "name": "c-expert",
+      "type": "skill",
+      "source_url": "local://c-expert",
+      "license": "MIT",
+      "version": "0.1.0",
+      "install": "sms:install c-expert",
+      "checked_at": "2026-10-07T14:26",
+      "source_url_status": "verified"
+    },
+    {
+      "name": "frontend-dev",
+      "type": "skill",
+      "source_url": "local://frontend-dev",
+      "license": "MIT",
+      "version": "1.0.0",
+      "install": "sms:install frontend-dev",
+      "checked_at": "2026-10-07T14:26",
+      "source_url_status": "verified"
+    },
+    {
+      "name": "database-management",
+      "type": "skill",
+      "source_url": "local://database-management",
+      "license": "MIT",
+      "version": "0.1.0",
+      "install": "sms:install database-management",
+      "checked_at": "2026-10-07T14:26",
+      "source_url_status": "verified"
+    },
+    {
+      "name": "webapp-testing",
+      "type": "skill",
+      "source_url": "local://webapp-testing",
+      "license": "unknown",
+      "version": "0.1.0",
+      "install": "sms:install webapp-testing",
+      "checked_at": "2026-10-07T14:26",
+      "source_url_status": "verified"
+    },
+    {
+      "name": "create-pull-request",
+      "type": "skill",
+      "source_url": "local://create-pull-request",
+      "license": "unknown",
+      "version": "0.1.0",
+      "install": "sms:install create-pull-request",
+      "checked_at": "2026-10-07T14:26",
+      "source_url_status": "verified"
+    },
+    {
+      "name": "packaging-and-release",
+      "type": "skill",
+      "source_url": "local://packaging-and-release",
+      "license": "MIT",
+      "version": "0.1.1",
+      "install": "SMS 本地技能",
+      "checked_at": "2026-10-08T09:20",
+      "source_url_status": "verified",
+      "note": "子技能位实体：版本/产物/门禁/通道/回滚（resistance/委派边界）"
+    },
+    {
+      "name": "software-testing",
+      "type": "skill",
+      "source_url": "local://software-testing",
+      "license": "MIT",
+      "version": "0.1.4",
+      "install": "SMS 本地技能",
+      "checked_at": "2026-10-08T09:20",
+      "source_url_status": "verified",
+      "note": "子技能位实体：策略/用例/证据门禁；Web 端到端再派 webapp-testing"
+    },
+    {
+      "name": "git-remote-management",
+      "type": "skill",
+      "source_url": "local://git-remote-management",
+      "license": "MIT",
+      "version": "0.1.1",
+      "install": "SMS 本地技能",
+      "checked_at": "2026-10-08T09:20",
+      "source_url_status": "verified",
+      "note": "子技能位实体：分支模型/钩子/密钥卫生/可见性；PR 再派 create-pull-request"
+    }
+  ]
+}
