@@ -1,13 +1,13 @@
 ---
 name: general-software-dev
-version: 0.1.1
+version: 0.1.2
 description: >
   通用软件开发总控（伞形/中枢）技能：设计→实现→打包发布→测试→版本控制与远端；
   只做跨领域编排与横切环节（脚手架、架构决策、打包发布、测试、git 远端），
   专项子任务一律派发给既有专家技能（general-programming / python-expert / cpp-expert /
-  c-expert / frontend-dev / database-management / webapp-testing / create-pull-request 等），
+  c-expert / frontend-dev / database-management / webapp-testing / pull-request-flow 等），
   禁止复制它们的内容；子技能位 packaging-and-release / software-testing / git-remote-management
-  已生成实体，本体只做路由与门禁（0.1.1）。
+  已生成实体，本体只做路由与门禁（0.1.2）。
 license: MIT
 metadata:
   category: development
@@ -16,6 +16,10 @@ metadata:
 # general-software-dev
 
 使用 `general-software-dev` skill 来完成用户请求。
+
+## Scope（范围声明）
+
+详见 [Scope.md](Scope.md)。
 
 ## 工作原则
 
