@@ -12,12 +12,12 @@
       "source_url_status": "verified"
     },
     {
-      "name": "code-guidelines",
+      "name": "general-software-dev",
       "type": "skill",
-      "source_url": "local://code-guidelines",
+      "source_url": "local://general-software-dev",
       "license": "unknown",
       "version": "0.1.0",
-      "install": "sms:install code-guidelines",
+      "install": "sms:install general-software-dev",
       "checked_at": "2026-10-07T14:26",
       "source_url_status": "verified"
     },
@@ -82,12 +82,12 @@
       "source_url_status": "verified"
     },
     {
-      "name": "create-pull-request",
+      "name": "pull-request-flow",
       "type": "skill",
-      "source_url": "local://create-pull-request",
+      "source_url": "local://pull-request-flow",
       "license": "unknown",
       "version": "0.1.0",
-      "install": "sms:install create-pull-request",
+      "install": "sms:install pull-request-flow",
       "checked_at": "2026-10-07T14:26",
       "source_url_status": "verified"
     },
@@ -122,7 +122,17 @@
       "install": "SMS 本地技能",
       "checked_at": "2026-10-08T09:20",
       "source_url_status": "verified",
-      "note": "子技能位实体：分支模型/钩子/密钥卫生/可见性；PR 再派 create-pull-request"
+      "note": "子技能位实体：分支模型/钩子/密钥卫生/可见性；PR 再派 pull-request-flow"
+    },
+    {
+      "name": "paradigm-arch-decision",
+      "type": "skill",
+      "source_url": "local://paradigm-arch-decision",
+      "license": "MIT",
+      "version": "0.1.0",
+      "install": "sms:install paradigm-arch-decision",
+      "checked_at": "2026-10-13T20:52",
+      "source_url_status": "verified"
     }
   ]
 }

@@ -6,7 +6,7 @@
 - 本体交付：仓库可见性意图（PUBLIC/PRIVATE）、分支基线（dev/main）、待推送范围；
 - 子技能交付：远端审计 → 分支守卫 → 提交卫生 → 密钥扫描 → 可见性门禁；
 - 声明位置：[../../dependence/deps.json](../../dependence/deps.json) 条目
-  `local://git-remote-management`；PR 描述由子技能再派 `create-pull-request`。
+  `local://git-remote-management`；PR 描述由子技能再派 `pull-request-flow`。
 
 ## 本体职责边界
 1. 推送与可见性判定见 [git工作流约束](../../resistance/git工作流约束/git工作流约束.md)

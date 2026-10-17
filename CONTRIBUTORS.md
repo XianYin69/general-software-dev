@@ -15,8 +15,8 @@
 ## 致谢
 
 - 既有专家技能（general-programming / python-expert / cpp-expert / c-expert /
-  frontend-dev / database-management / webapp-testing / create-pull-request /
-  code-guidelines）——本技能的路由目标与规范来源（清单见
+  frontend-dev / database-management / webapp-testing / pull-request-flow /
+  general-software-dev）——本技能的路由目标与规范来源（清单见
   [dependence/dependence.md](dependence/dependence.md)）。
 
 ## 条目登记
