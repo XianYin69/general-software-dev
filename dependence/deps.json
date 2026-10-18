@@ -133,6 +133,46 @@
       "install": "sms:install paradigm-arch-decision",
       "checked_at": "2026-10-13T20:52",
       "source_url_status": "verified"
+    },
+    {
+      "name": "software_use_only-virtual-box",
+      "type": "skill",
+      "source_url": "local://software_use_only-virtual-box",
+      "license": "MIT",
+      "version": "0.1.0",
+      "install": "sms:install software_use_only-virtual-box",
+      "checked_at": "2026-10-18T08:40",
+      "source_url_status": "verified"
+    },
+    {
+      "name": "software_use_only-vmware",
+      "type": "skill",
+      "source_url": "local://software_use_only-vmware",
+      "license": "MIT",
+      "version": "0.1.0",
+      "install": "sms:install software_use_only-vmware",
+      "checked_at": "2026-10-18T08:40",
+      "source_url_status": "verified"
+    },
+    {
+      "name": "software_use_only-hyper-v",
+      "type": "skill",
+      "source_url": "local://software_use_only-hyper-v",
+      "license": "MIT",
+      "version": "0.1.0",
+      "install": "sms:install software_use_only-hyper-v",
+      "checked_at": "2026-10-18T08:40",
+      "source_url_status": "verified"
+    },
+    {
+      "name": "software_use_only-wsl",
+      "type": "skill",
+      "source_url": "local://software_use_only-wsl",
+      "license": "MIT",
+      "version": "0.1.0",
+      "install": "sms:install software_use_only-wsl",
+      "checked_at": "2026-10-18T08:40",
+      "source_url_status": "verified"
     }
   ]
 }
